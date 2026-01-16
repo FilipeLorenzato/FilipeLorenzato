@@ -32,5 +32,5 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-Aluno de Ciência da Computação, 3° período.  
+Aluno de Ciência da Computação, 5° período.  
 Gosto muito de algorítmo e estrutura de dados.
