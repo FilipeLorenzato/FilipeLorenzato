@@ -1,5 +1,5 @@
 ### Bem vindo! ✌️
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&lines=Sou+Filipe+Lorenzato;Estudante+de+Ciência+da+Computação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&lines=Sou+Filipe+Lorenzato;+Cientista+da+Computação)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lorenzato-a15396278/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipelorenzato/)
